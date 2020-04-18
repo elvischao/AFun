@@ -34,7 +34,7 @@
 
 
 <p>有香港、日本、新加坡、美国、韩国、俄罗斯、印度、土耳其等节点可选用。</p>
-<img src="https://github.com/elvischao/AFun/blob/master/image/B23ED7BF-BF2C-4E2F-93D7-0EFE9550E00B.png">
+<img src="https://github.com/elvischao/AFun/blob/master/image/v2rayx.png">
 
 
 <p>支持V2ray订阅服务，更新一个url地址，即可获得并刷新所有节点信息。不需要一个一个添加节点。支持Clash托管地址订阅。</p>
