@@ -1,4 +1,4 @@
-# AFunvpn.com
+# AFUNVPN阿凡梯
 <div class="entry-content clearfix">
                             
 <p>根据<a href="https://www.afunvpn.com/register?aff=wqQx3">阿凡梯</a>的简介，这是一家长期走高性价比和情怀路线的V2Ray机场，并不是<strong>Shadowsocksr（</strong>SSR）机场。实际使用来说，它的性价比确实是相当高的,比SSR 稳，防封强，套餐丰富选择多样。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
