@@ -1,11 +1,11 @@
 # AFUNVPN阿凡梯
 <div class="entry-content clearfix">
                             
-<p>根据<a href="https://www.afunvpn.com/register?aff=wqQx3">阿凡梯</a>的简介，这是一家长期走高性价比和情怀路线的V2Ray机场，并不是<strong>Shadowsocksr（</strong>SSR）机场。实际使用来说，它的性价比确实是相当高的,比SSR 稳，防封强，套餐丰富选择多样。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
+<p>根据<a href="https://www.afunv.com/register?aff=wqQx3">阿凡梯</a>的简介，这是一家长期走高性价比和情怀路线的V2Ray机场，并不是<strong>Shadowsocksr（</strong>SSR）机场。实际使用来说，它的性价比确实是相当高的,比SSR 稳，防封强，套餐丰富选择多样。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
 
 
 
-<p>您也可以<a href="https://www.afunvpn.com/register?aff=wqQx3">点击链接</a>，进入阿凡梯的网站访问页面，直接注册并进行了解。</p>
+<p>您也可以<a href="https://www.afunv.com/register?aff=wqQx3">点击链接</a>，进入阿凡梯的网站访问页面，直接注册并进行了解。</p>
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-<p><strong>邀请注册双方各奖励流量1GB，并能获得20%的现金返利。如果直接从上面的首页进入注册只有100MB的初始流量，点击我的</strong><a href="https://www.afunvpn.com/register?aff=wqQx3"><strong>邀请链接</strong></a><strong>，进入注册可以获得1GB可用流量。</strong></p>
+<p><strong>邀请注册双方各奖励流量1GB，并能获得20%的现金返利。如果直接从上面的首页进入注册只有100MB的初始流量，点击我的</strong><a href="https://www.afunv.com/register?aff=wqQx3"><strong>邀请链接</strong></a><strong>，进入注册可以获得1GB可用流量。</strong></p>
 
 
 
@@ -117,11 +117,11 @@
 
 
 
-<p>通过我的邀请链接<a href="https://www.afunvpn.com/register?aff=wqQx3">注册</a>后可从<a href="http://www.afunvpn.com/index.html">官网首页</a>下载各平台v2ray客户端，或点击以下全平台订阅教程链接进入，查看详细的图文教程进行手把手操作。</p>
+<p>通过我的邀请链接<a href="https://www.afunv.com/register?aff=wqQx3">注册</a>后可从<a href="http://www.afunv.com/index.html">官网首页</a>下载各平台v2ray客户端，或点击以下全平台订阅教程链接进入，查看详细的图文教程进行手把手操作。</p>
 
 
 
-<p>我是传送门：<a href="http://www.afunvpn.com/view/download.html">阿凡梯V2Ray全平台操作教程</a></p>
+<p>我是传送门：<a href="http://www.afunv.com/view/download.html">阿凡梯V2Ray全平台操作教程</a></p>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<p>您访问我的博客，浏览我的啰嗦，也是一种缘分。阿凡梯只搭有缘人浪迹天涯，请点击我的<a href="https://www.afunvpn.com/register?aff=wqQx3">推广链接</a>去注册用户，最好也顺便购买服务，大恩就不言谢了。</p>
+<p>您访问我的博客，浏览我的啰嗦，也是一种缘分。阿凡梯只搭有缘人浪迹天涯，请点击我的<a href="https://www.afunv.com/register?aff=wqQx3">推广链接</a>去注册用户，最好也顺便购买服务，大恩就不言谢了。</p>
 
 
 
