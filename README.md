@@ -153,7 +153,7 @@
 
 
 
-<p>售后交流群请加入<a href="https://t.me/AFunT">TG群</a>。</p>
+<p>售后交流群请加入<a href="https://t.me/AFunv">TG群</a>。</p>
 
 
 
