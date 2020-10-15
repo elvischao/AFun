@@ -121,17 +121,6 @@
 
 
 
-<p>我是传送门：<a href="http://www.afunv.com/view/download.html">阿凡梯V2Ray全平台操作教程</a></p>
-
-
-
-<figure class="wp-block-image size-large"><noscript><img src="http://www.v2v0.com/wp-content/uploads/2019/11/EC400AD5-6395-4B56-BA46-7EF40DEF36E1.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-12"/></noscript><a class="fluidbox fluidbox__instance-2 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2v0.com/wp-content/uploads/2019/11/EC400AD5-6395-4B56-BA46-7EF40DEF36E1.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2v0.com/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2v0.com/wp-content/uploads/2019/11/EC400AD5-6395-4B56-BA46-7EF40DEF36E1.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-12 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
-
-
-
-<p><strong>再啰嗦一下</strong></p>
-
-
 
 <p>注册并登录后在用户个人中心首页，你可以签到</p>
 
