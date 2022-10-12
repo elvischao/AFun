@@ -101,7 +101,7 @@
 
 
 
-<p>95折优惠卷：CAZQNSJ</p>
+<p>95折优惠卷：BhErSd8R（如果优惠卷过期，可以联系客服咨询是否有最新的优惠卷）</p>
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-<p>对于下载客户端，就看你是用什么设备上了，用PC电脑就下载Windows客户端，Android手机就下载Android客户端app。iOS客户端需要先<a href="http://www.niwoka.com/product/29.html">购买美区Apple id</a> 然后登录你的苹果应用商店里下载。</p>
+<p>对于下载客户端，就看你是用什么设备上了，用PC电脑就下载Windows客户端，Android手机就下载Android客户端app。iOS客户端需要先准备一个美区Apple id，然后用此id在苹果设备的应用商店里登录，搜索下载对应的app。</p>
 
 
 
