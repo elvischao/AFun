@@ -1,11 +1,11 @@
 # AFUN阿凡梯
 <div class="entry-content clearfix">
                             
-<p>根据<a href="https://dwz.afunv.top/3">阿凡梯</a>的简介，这是一家长期走高性价比和情怀路线的V2Ray机场，并不是<strong>Shadowsocksr（</strong>SSR）机场。实际使用来说，它的性价比确实是相当高的,比SSR 稳，防封强，套餐丰富选择多样。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
+<p>根据<a href="https://www.afunv.cyou">阿凡梯</a>的简介，这是一家长期走高性价比和情怀路线的V2Ray机场，并不是<strong>Shadowsocksr（</strong>SSR）机场。实际使用来说，它的性价比确实是相当高的,比SSR 稳，防封强，套餐丰富选择多样。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
 
 
 
-<p>您也可以<a href="https://dwz.afunv.top/3">点击链接</a>，进入阿凡梯的网站访问页面，直接注册并进行了解。</p>
+<p>您也可以<a href="https://www.afunv.cyou">点击链接</a>，进入阿凡梯的网站访问页面，直接注册并进行了解。</p>
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-<p><strong>邀请注册双方各奖励流量1GB，并能获得20%的现金返利。如果直接从上面的首页进入注册只有100MB的初始流量，点击我的</strong><a href="https://dwz.afunv.top/3"><strong>邀请链接</strong></a><strong>，进入注册可以获得1GB可用流量。</strong></p>
+<p><strong>邀请注册双方各奖励流量1GB，并能获得20%的现金返利。如果直接从上面的首页进入注册只有100MB的初始流量，点击我的</strong><a href="https://www.afunv.cyou"><strong>邀请链接</strong></a><strong>，进入注册可以获得1GB可用流量。</strong></p>
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-<figure class="wp-block-image size-large"><noscript><img src="http://www.v2v0.com/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-218"/></noscript><a class="fluidbox fluidbox__instance-1 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2v0.com/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2v0.com/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2v0.com/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-218 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
+<figure class="wp-block-image size-large"><noscript><img src="http://www.v2hi.top/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-218"/></noscript><a class="fluidbox fluidbox__instance-1 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2v0.com/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2v0.com/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2hi.top/wp-content/uploads/2019/12/F2902724-23D9-4571-B9A4-A2A5B0F57228-1024x613.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-218 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<p>通过我的邀请链接<a href="https://dwz.afunv.top/3">注册</a>后可从帮助中心教程里下载各平台v2ray客户端，或点击以下全平台订阅教程链接进入，查看详细的图文教程进行手把手操作。</p>
+<p>通过我的邀请链接<a href="https://www.afunv.cyou">注册</a>后可从帮助中心教程里下载各平台v2ray客户端，或点击以下全平台订阅教程链接进入，查看详细的图文教程进行手把手操作。</p>
 
 
 
@@ -147,7 +147,7 @@
 
 
 
-<figure class="wp-block-image size-large"><noscript><img src="http://www.v2v0.com/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13"/></noscript><a class="fluidbox fluidbox__instance-3 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2v0.com/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2v0.com/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2v0.com/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
+<figure class="wp-block-image size-large"><noscript><img src="http://www.v2hi.top/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13"/></noscript><a class="fluidbox fluidbox__instance-3 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2hi.top/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2v0.com/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2v0.com/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<p>您访问我的博客，浏览我的啰嗦，也是一种缘分。阿凡梯只搭有缘人浪迹天涯，请点击我的<a href="https://dwz.afunv.top/3">推广链接</a>去注册用户，最好也顺便购买服务，大恩就不言谢了。</p>
+<p>您访问我的博客，浏览我的啰嗦，也是一种缘分。阿凡梯只搭有缘人浪迹天涯，请点击我的<a href="https://www.afunv.cyou">推广链接</a>去注册用户，最好也顺便购买服务，大恩就不言谢了。</p>
 
 
 
