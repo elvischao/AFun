@@ -146,11 +146,6 @@
 <p>加TG群是需要先上梯子的，如果还没有梯子就有问题，想交流可以在官网右下角找到客服按钮，点击就会有人工客服实时回复的，网络延迟可能要稍微等30秒才有回复，不要以为没人在哦。</p>
 
 
-
-<figure class="wp-block-image size-large"><noscript><img src="http://www.v2hi.top/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13"/></noscript><a class="fluidbox fluidbox__instance-3 fluidbox--initialized fluidbox--closed fluidbox--ready" href="http://www.v2hi.top/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" data-fluidbox="" data-fluidbox-loader="true"><div class="fluidbox__wrap" style="z-index: 1;"><img src="https://www.v2hi.top/wp-content/themes/justnews/themer/assets/images/lazy.png" data-original="http://www.v2hi.top/wp-content/uploads/2019/11/48ACC5EF-B1E2-47D2-A6F9-6E2A936B4052.jpg" alt="浅谈部分机场 (SS/SSR/V2Ray)阿凡梯的使用体验[持续更新]" class="wp-image-13 j-lazy fluidbox__thumb" style="opacity: 1;"><div class="fluidbox__ghost" style="width: 48px; height: 32px; top: 0px; left: 0px;"></div><div class="fluidbox__loader" style="z-index: 2;"></div></div></a></figure>
-
-
-
 <p>若有充值、使用、配置、邮件验证码、客户端下载等问题，请发消息到TG交流群，或通过登录个人中心网站提交工单也可以。</p>
 
 
